@@ -1,4 +1,4 @@
-<!---
+
 - 👋 Hi, I’m @aqshalzakki
 - 👀 I’m interested in learning newest technology!
 - 🌱 I’m currently learning Clean code & code principle
@@ -19,10 +19,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aqshalzakki="visitor"/>
   <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ocsxxi/ocsxxi) -->
-</p> --->
+</p>
 
-<!---
 aqshalzakki/aqshalzakki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 locked
