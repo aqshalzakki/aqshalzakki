@@ -1,5 +1,33 @@
 <h1 align="center">Hi 👋, I'm Aqshal Zakki</h1>
-<h3 align="center">A Fullstack engineer passionate about building clean, efficient, and scalable applications. I enjoy working with Golang, PHP, Laravel, Node.js, and exploring new technologies to solve real-world problems. I love diving into complex queries, optimizing performance, and experimenting with microservices architectures using tools like RabbitMQ. On the frontend, I also enjoy working with Vue.js and Nuxt.js. Outside of coding, I’m an avid reader 📚 and a chess enthusiast ♟️, always excited to learn new strategies. When I need to relax, I enjoy gaming, especially story-driven RPGs and strategy games. I’m always open to collaborating on interesting projects and learning from the developer community. Tech & Tools: Languages: PHP, JavaScript, TypeScript, Golang Frameworks: Laravel, NestJS, Vue.js, Nuxt.js Messaging & Queues: RabbitMQ, Redis Database: MySQL, PostgreSQL, MongoDB Others: Firebase, Docker, Git Let’s connect! 🚀</h3>
+<h3 align="center">
+A Fullstack engineer passionate about building clean, efficient, and scalable applications.  
+I enjoy working with <strong>Golang, PHP, Laravel, Node.js</strong>, and exploring new technologies to solve real-world problems.  
+
+I love diving into:  
+<ul>
+  <li>Complex queries & performance optimization</li>
+  <li>Microservices architectures using <strong>RabbitMQ</strong></li>
+  <li>Scalable application design</li>
+</ul>
+
+On the frontend, I enjoy working with <strong>Vue.js</strong> and <strong>Nuxt.js</strong>.  
+
+Outside of coding, I’m an avid <strong>reader 📚</strong> and a <strong>chess enthusiast ♟️</strong>.  
+When I need to relax, I enjoy gaming, especially story-driven RPGs and strategy games.  
+
+I’m always open to collaborating on interesting projects and learning from the developer community.  
+</h3>
+
+<h3 align="center">Tech & Tools</h3>
+<p align="center">
+<strong>Languages:</strong> PHP, JavaScript, TypeScript, Golang<br>
+<strong>Frameworks:</strong> Laravel, NestJS, Vue.js, Nuxt.js<br>
+<strong>Messaging & Queues:</strong> RabbitMQ, Redis<br>
+<strong>Databases:</strong> MySQL, PostgreSQL, MongoDB<br>
+<strong>Others:</strong> Firebase, Docker, Git
+</p>
+
+<h3 align="center">Let’s connect! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqshalzakki&label=Profile%20views&color=0e75b6&style=flat" alt="aqshalzakki" /> </p>
 
