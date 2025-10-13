@@ -18,14 +18,22 @@ When I need to relax, I enjoy gaming, especially story-driven RPGs and strategy 
 I’m always open to collaborating on interesting projects and learning from the developer community.  
 </h4>
 
-<h3 align="center">Tech & Tools</h3>
-<p>
-<strong>Languages:</strong> PHP, JavaScript, TypeScript, Golang<br>
-<strong>Frameworks:</strong> Laravel, NestJS, Vue.js, Nuxt.js<br>
-<strong>Messaging & Queues:</strong> RabbitMQ, Redis<br>
-<strong>Databases:</strong> MySQL, PostgreSQL, MongoDB<br>
-<strong>Others:</strong> Firebase, Docker, Git
-</p>
+### Languages and Tools:
+
+**Languages:**  
+PHP, JavaScript, TypeScript, Golang, Python, Bash
+
+**Frameworks & Libraries:**  
+Laravel, NestJS, Vue.js, Nuxt.js, CodeIgniter, Django, Express.js, Svelte, Bootstrap, TailwindCSS, Vuetify
+
+**Messaging & Queues:**  
+RabbitMQ, Redis, Kafka
+
+**Databases:**  
+MySQL, PostgreSQL, MongoDB, MariaDB, Microsoft SQL Server
+
+**Tools & Platforms:**  
+Docker, Firebase, Git, Postman, Heroku, Grafana, Jenkins, Cypress, Jest
 
 <h3 align="center">Let’s connect! 🚀</h3>
 
