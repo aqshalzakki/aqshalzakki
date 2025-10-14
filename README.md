@@ -47,8 +47,6 @@ Docker, Firebase, Git, Postman, Heroku, Grafana, Jenkins, Cypress, Jest
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [github.com/aqshalzakki](github.com/aqshalzakki)
-
 - 💬 Ask me about **go, javascript, php**
 
 - 📫 How to reach me **m.aqshal.zakki@gmail.com**
