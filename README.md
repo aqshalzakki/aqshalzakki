@@ -1,1 +1,1 @@
-Code like maniac
+ship everything
